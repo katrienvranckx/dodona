@@ -1,22 +1,22 @@
 {
- "tabs": [
-  {
-   "name": "Echo",
-   "runs": [
+  "tabs": [
     {
-     "run": {
-       "input": {
-        "main_call": true
-       },
-       "output": {
-        "stdout": {
-         "type": "real",
-         "data": 56.7
+      "name": "Echo",
+      "runs": [
+        {
+          "run": {
+            "input": {
+              "main_call": true
+            },
+            "output": {
+              "stdout": {
+               "type": "real",
+               "data": 56.7
+              }
+            }
+          }
         }
-       }
-      }
-     }
-   ]
-  }
- ]
+      ]
+    }
+  ]
 }
