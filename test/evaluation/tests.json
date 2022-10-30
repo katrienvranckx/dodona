@@ -6,7 +6,7 @@
     {
      "contexts": [
       {
-       "testcases": [
+       "run": [
         {
          "input": {
           "main_call": true
