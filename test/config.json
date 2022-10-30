@@ -1,0 +1,13 @@
+{
+  "description": {
+    "names": {
+      "en": "Test",
+      "nl": "Test"
+    }
+  },
+  "evaluation": {
+    "plan_name": "tests.json"
+  },
+  "programming_language": "python",
+  "access": "private"
+}
