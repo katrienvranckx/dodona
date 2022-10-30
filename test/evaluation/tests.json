@@ -8,20 +8,10 @@
       {
        "testcases": [
         {
-         "input": {
-          "type": "function",
-          "name": "echo",
-          "arguments": [
-           {
-            "type": "text",
-            "data": "input-1"
-           }
-          ]
-         },
          "output": {
           "stdout": {
-           "type": "text",
-           "data": "input-1"
+           "type": "real",
+           "data": 56.7
           }
          }
         }
