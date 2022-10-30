@@ -8,7 +8,9 @@
       {
        "testcases": [
         {
-         "input": {},
+         "input": {
+          "main_call": true
+         },
          "output": {
           "stdout": {
            "type": "real",
