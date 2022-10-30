@@ -8,6 +8,7 @@
       {
        "testcases": [
         {
+         "input": {}
          "output": {
           "stdout": {
            "type": "real",
