@@ -9,7 +9,7 @@
     "plan_name": "tests.json"
   },
   "programming_language": "python",
-  "access": "private",
+  "access": "public",
   "internals": {
     "token": "NKBeUY9RvpDzrbhacT53YVktRD_TbY55m2rm7NhfV2_fkdx7YesF75dPB4QKmUz_",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
