@@ -4,21 +4,16 @@
    "name": "Echo",
    "runs": [
     {
-     "contexts": [
-      {
-       "run": [
-        {
-         "input": {
-          "main_call": true
-         },
-         "output": {
-          "stdout": {
-           "type": "real",
-           "data": 56.7
-          }
-         }
+     "run": {
+       "input": {
+        "main_call": true
+       },
+       "output": {
+        "stdout": {
+         "type": "real",
+         "data": 56.7
         }
-       ]
+       }
       }
      ]
     }
